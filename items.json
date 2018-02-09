@@ -1,0 +1,28 @@
+{
+  "Ping": {
+    "name":"Ping Command",
+    "type":"Command",
+    "price":"1000000",
+    "desc":"A Ping Command"
+    },
+  "A wild Bennett appears": {
+      "name":"asian squid",
+      "type":"Roles",
+      "price":"1000000",
+      "desc":"Buying gives the asian squidRole"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
